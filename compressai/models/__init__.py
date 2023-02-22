@@ -30,3 +30,5 @@
 from .base import *
 from .google import *
 from .waseda import *
+from .stf import SymmetricalTransFormer
+from .cnn import 
